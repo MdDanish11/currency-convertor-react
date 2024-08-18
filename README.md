@@ -4,7 +4,8 @@ A React-based Currency Converter that allows users to easily convert between dif
 
 ## Live Demo
 
-Check out the live demo of the Currency Converter [https://your-live-link.com](https://mddanish11.github.io/currency-convertor-react/]
+Check out the live demo of the Currency Converter 
+https://your-live-link.com](https://mddanish11.github.io/currency-convertor-react/
 
 ## Features
 
