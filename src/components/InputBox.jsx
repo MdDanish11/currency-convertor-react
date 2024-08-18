@@ -56,7 +56,7 @@ function InputBox({
                     >
                         {selectCurrency.toUpperCase()}
                         <span className={`ml-1 transition-transform ${isDropdownOpen ? 'rotate-180' : ''}`}>
-                            ▼
+                            
                         </span>
                     </div>
                     {isDropdownOpen && (
