@@ -12,12 +12,13 @@ https://mddanish11.github.io/currency-convertor-react/
 - **Real-Time Conversion:** Get up-to-date currency conversion rates.
 - **Swap Functionality:** Quickly switch between the base and target currencies.
 - **Responsive Design:** Optimized for all screen sizes.
+- **Searchable Currency List:** Easily find and select currencies from a large list using the integrated search bar. 
 
 ## Technologies Used
 
 - **React.js**: For building the user interface.
 - **JavaScript**: For logic and calculations.
-- **CSS**: For styling the app.
+- **Tailwind CSS**: For styling the app.
 - **Currency API**: To fetch real-time exchange rates.
 
 ## Installation
